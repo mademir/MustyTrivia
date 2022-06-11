@@ -1,1 +1,4 @@
 Distributables/** linguist-vendored
+Distributables/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx -linguist-vendored
+Distributables/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx -linguist-vendored
+Distributables/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx -linguist-vendored
