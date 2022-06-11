@@ -4,6 +4,8 @@ Unity Trivia Game Online (Steam)
 A Unity game that uses Steamworks API and Mirror packages to establish multiplayer experience.   
 This is a trivia quiz game that you can play with your friends through Steam.
 
+[Main Screen](./mainscreen.png)
+
 ## Gameplay  
 The aim of the game is to answer the trivia questions on the screen.  
 Each player stands on the options they think is the right one.  
